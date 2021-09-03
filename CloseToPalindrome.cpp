@@ -1,6 +1,7 @@
+import java.io.*;
 import java.util.*;
     
-public class CloseToPalindrome
+public class solutions
 {
     public static void main(String args[])
     {
@@ -39,6 +40,5 @@ public class CloseToPalindrome
             if(ans1>ans2)System.out.print(j);
             else System.out.print(i);
        }  
-       sc.close();
     }
 }
