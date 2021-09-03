@@ -39,5 +39,6 @@ public class CloseToPalindrome
             if(ans1>ans2)System.out.print(j);
             else System.out.print(i);
        }  
+       sc.close();
     }
 }

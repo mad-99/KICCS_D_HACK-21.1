@@ -18,5 +18,6 @@ public class KIETDissectingAProblem {
         for(int i=0;i<a.length;i++) if (max == a[i]) sum = sum + a[i];
         
         System.out.print(sum);
+        sc.close();
     }
 }
