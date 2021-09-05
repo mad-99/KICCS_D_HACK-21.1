@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution{
+class KIETArtemisFowl25{
 
     // final 
     public static  void main(String args[]) {
